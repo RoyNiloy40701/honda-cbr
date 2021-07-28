@@ -5,3 +5,14 @@ body{
 .gray-bike-img  { 
      filter: grayscale(100%); 
 }
+.bg-custom-color{
+     background-color: #264653;
+}
+.btn-custom-bg{
+     background-color:  #E76F51;
+     ;
+}
+.text-custom-color{
+     color: #E76F51;
+     
+}
