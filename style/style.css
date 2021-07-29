@@ -1,18 +1,22 @@
 body{
      font-family: 'Poppins', sans-serif;
 }
-
+ /* bike image grayscale  */
 .gray-bike-img  { 
      filter: grayscale(100%); 
 }
+
+ /* top custom background  */
 .bg-custom-color{
      background-color: #264653;
 }
+
+/* button custom color  */
 .btn-custom-bg{
      background-color:  #E76F51;
-     ;
 }
+
+/* font custom color  */
 .text-custom-color{
-     color: #E76F51;
-     
+     color: #E76F51;   
 }
